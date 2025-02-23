@@ -12,4 +12,4 @@ InfoBot est un bot Twitter qui surveille les tendances, génère des contre-disc
 ## Installation
 1. Clonez ce dépôt :  
    ```bash
-   git clone https://github.com/votreprofil/InfoBot.git
+   git clone https://github.com/kazadifab/My-Twitter-Agent-v.1.0/README.md
